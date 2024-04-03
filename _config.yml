@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Beining Ying"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Double Bachelor's Degree Student | Informatique @CY Cergy Paris Université & Data Science @ZUST | Progress forever"
+  location         : "Paris, France"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "beining.ying@etu.cyu.fr" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
