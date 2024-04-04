@@ -14,5 +14,12 @@ redirect_from:
 
 {% include_relative includes/awards.md %}
 
+{% include_relative includes/copyright.md %}
+
+{% include_relative includes/languages.md %}
+
+{% include_relative includes/homepage.md %}
+
+
 
 
