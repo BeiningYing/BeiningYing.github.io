@@ -12,6 +12,10 @@ redirect_from:
 
 {% include_relative includes/education.md %}
 
+{% include_relative includes/publication.md %}
+
+{% include_relative includes/projects.md %}
+
 {% include_relative includes/awards.md %}
 
 {% include_relative includes/copyright.md %}

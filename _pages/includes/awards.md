@@ -1,4 +1,4 @@
-# 🎖 Awards and Honors
+# 🏆 Awards and Honors
 - *2023.11*, Zhejiang Provincial Government Scholarship
 - *2022.11*, International College Students' Innovation Competition, Second prize
 - *2022.08*, China Huashu Cup Mathematical Contest in Modelling, First prize
