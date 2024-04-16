@@ -1,5 +1,5 @@
 # 🏆 Awards and Honors
-- *2023.11*, Zhejiang Provincial Government Scholarship
+- *2023.11*, Zhejiang Province Scholarship
 - *2022.11*, [International College Students' Innovation Competition](https://www.pilcchina.org/home), Second prize (TOP 0.03%)
 - *2022.08*, China Mathematical Contest in Modelling(Huashu Cup), First prize
 - *2022.05*, Yangtze River Delta Mathematical Contest in Modelling, First prize
