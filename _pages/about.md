@@ -19,6 +19,8 @@ redirect_from:
 
 {% include_relative includes/awards.md %}
 
+{% include_relative includes/internships.md %}
+
 {% include_relative includes/copyright.md %}
 
 {% include_relative includes/services.md %}
